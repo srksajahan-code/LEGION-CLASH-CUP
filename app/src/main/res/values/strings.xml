@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Crimson Arena</string>
+
+    <!-- Navigation -->
+    <string name="nav_arena">Arena</string>
+    <string name="nav_watch">Watch</string>
+    <string name="nav_rankings">Rankings</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Safety & Anti-Gambling -->
+    <string name="safety_banner_title">Safe Free E-Sports Platform</string>
+    <string name="safety_banner_body">We NEVER ask for your Free Fire password. Free skill-based tournaments with zero real-money deposits or cash prizes.</string>
+    <string name="currency_demo_coins">Demo Coins</string>
+    <string name="currency_original_points">Original Points</string>
+    <string name="currency_demo_desc">Free practice &amp; custom room entry tokens (20 DC signup bonus). Not real money.</string>
+    <string name="currency_original_desc">Verified tournament skill points earned only from admin-verified wins &amp; kills.</string>
+
+    <!-- Onboarding & Auth -->
+    <string name="onboarding_title">Enter the Arena</string>
+    <string name="onboarding_subtitle">Create your verified player profile using only your Free Fire UID. No game password required.</string>
+    <string name="label_player_name">Player In-Game Name</string>
+    <string name="label_free_fire_uid">Free Fire UID (8–12 digits)</string>
+    <string name="label_email">Contact Email</string>
+    <string name="btn_create_player">Claim 20 Demo Coins &amp; Enter</string>
+    <string name="btn_demo_admin">Enter as Super Admin (Demo)</string>
+    <string name="btn_demo_player">Enter as Sample Player</string>
+    <string name="error_invalid_uid">Free Fire UID must be 8 to 12 numeric digits.</string>
+    <string name="error_invalid_name">Player name must be 2 to 24 characters.</string>
+    <string name="error_invalid_email">Enter a valid contact email.</string>
+
+    <!-- Tournaments & Rooms -->
+    <string name="btn_join_tournament">Register Now</string>
+    <string name="room_vault_title">Match Room Credentials</string>
+    <string name="room_locked_approved_only">Room ID &amp; Password are protected. Only APPROVED players can view credentials once published by Admin.</string>
+    <string name="room_waiting_publish">Your registration is APPROVED. Waiting for Admin to publish Room ID &amp; Password before match start.</string>
+    <string name="room_id_label">Room ID</string>
+    <string name="room_password_label">Password</string>
+    <string name="btn_copy">Copy</string>
+
+    <!-- Watch & Media -->
+    <string name="section_youtube_live">YouTube Live Streams</string>
+    <string name="section_official_guides">Official Guide Videos</string>
+    <string name="empty_videos">No streams or guide videos published yet.</string>
+
+    <!-- Rankings & Fair Play -->
+    <string name="leaderboard_title">Championship Rankings</string>
+    <string name="leaderboard_subtitle">Ranked by admin-verified Original Points</string>
+    <string name="btn_report_player">Report Suspicious UID</string>
+    <string name="btn_submit_appeal">Submit Ban / Report Appeal</string>
+
+    <!-- Admin Command Center -->
+    <string name="admin_panel_title">Admin &amp; Moderator Console</string>
+    <string name="admin_create_tournament">Create Tournament</string>
+    <string name="admin_manage_registrations">Registrations</string>
+    <string name="admin_room_vault">Publish Room</string>
+    <string name="admin_verify_results">Verify Results</string>
+    <string name="admin_reports_appeals">Reports &amp; Appeals</string>
+    <string name="admin_media_announcements">Media &amp; Notices</string>
+</resources>
